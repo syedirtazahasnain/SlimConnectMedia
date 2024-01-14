@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="clickfunnels-com bgCover wf-proximanova-i4-active wf-proximanova-i7-active wf-proximanova-n4-active wf-proximanova-n7-active wf-active wf-proximanova-i3-active wf-proximanova-n3-active wf-proximanovasoft-n4-active wf-proximanovasoft-n7-active wf-proximasoft-n4-active wf-proximasoft-i4-active wf-proximasoft-i6-active wf-proximasoft-n6-active wf-proximasoft-i7-active wf-proximasoft-n7-active avcHn2VQJenBvoR5hilPG " style="background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); font-family: Roboto, Helvetica, sans-serif !important; overflow: initial;">
+<html lang="en" class="clickfunnels-com bgCover wf-proximanova-i4-active wf-proximanova-i7-active wf-proximanova-n4-active wf-proximanova-n7-active wf-active wf-proximanova-i3-active wf-proximanova-n3-active wf-proximanovasoft-n4-active wf-proximanovasoft-n7-active wf-proximasoft-n4-active wf-proximasoft-i4-active wf-proximasoft-i6-active wf-proximasoft-n6-active wf-proximasoft-i7-active wf-proximasoft-n7-active avcHn2VQJenBvoR5hilPG " style="background-color: rgb(0 0 0); color: rgb(255, 255, 255); font-family: Roboto, Helvetica, sans-serif !important; overflow: initial;">
 
 <head data-next-url data-this-url="https://www.clients2calendar.com/automation">
     <meta charset="UTF-8">
@@ -160,7 +160,7 @@
                 color: #FFF !important;
             }
         </style>
-        <div class="container noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 activeSection_topBorder activeSection_bottomBorder fullContainer border5px bgCover100 shadow40 emptySection activeSection_bottomBorder0 noBorder" id="section-5873710000-110" data-title="header section - Clone" data-block-color="0074C7" style="padding-top: 0px; border-color: rgb(184, 67, 37); padding-bottom: 65px; outline: none; background-color: rgb(25, 25, 25);" data-trigger="none" data-animate="fade" data-delay="500" data-hide-on>
+        <div class="container noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 activeSection_topBorder activeSection_bottomBorder fullContainer border5px bgCover100 shadow40 emptySection activeSection_bottomBorder0 noBorder" id="section-5873710000-110" data-title="header section - Clone" data-block-color="0074C7" style="padding-top: 0px; border-color: rgb(184, 67, 37); padding-bottom: 65px; outline: none; background-color: rgb(0 0 0);" data-trigger="none" data-animate="fade" data-delay="500" data-hide-on>
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--91241" data-trigger="none" data-animate="fade" data-delay="500" data-title="1 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px auto; outline: none; width: 100%; max-width: 100%;">
                     <div id="col-full-157" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 20px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(43, 255, 244);" data-bold="inherit" data-gramm="false" contenteditable="false"><i>Watch 5 Minute Video Below For How This Offer Works.</i></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color:    rgb(200, 200, 200);" data-bold="inherit" data-gramm="false" contenteditable="false"><i>Watch 5 Minute Video Below For How This Offer Works.</i></h2>
                             </div>
                             <div class="de elVideoWrapper de-video-block elMargin0 ui-droppable padding0 effect1 elVideoSkin2 elVideoWidth100 de-editable" id="tmp_video-37473" data-de-type="video" data-de-editing="false" data-title="video" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" data-video-type="vimeo" style="outline: none; margin-top: 35px; cursor: pointer;" data-vimeo-url="https://vimeo.com/802974995" aria-disabled="false" data-element-theme="customized">
                                 <div class="elVideoplaceholder">
@@ -187,7 +187,7 @@
                                 <!-- <div class="elVideo" style="display: none;"><iframe width="640" height="360" src="https://player.vimeo.com/video/802974995?autoplay=0&amp;title=0&amp;byline=0&amp;wmode=transparent&amp;autopause=0" frameborder="0" allowfullscreen wmode="opaque"></iframe></div> -->
                             </div>
                             <div class="de elBTN elMargin0 ui-droppable elAlign_center de-editable" id="button-90966" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 50px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elBTN_b_none elBtnVP_15 elBtnHP_20 no-button-effect mfs_22 elButtonCorner5 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elBTN_b_none elBtnVP_15 elBtnHP_20 no-button-effect mfs_22 elButtonCorner5 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -271,7 +271,7 @@
                 color: #FFF !important;
             }
         </style>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130" data-title="Section - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130" data-title="Section - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -287,7 +287,7 @@
                     <div id="col-right-131-152-170-157-122-133" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"They've completely surpassed my expectations"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"They've completely surpassed my expectations"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -324,78 +324,52 @@
                         </div>
                     </div>
                 </div>
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-131" data-trigger="none" data-animate="fade" data-delay="500" data-title="3 column row" style="margin: 0px auto; outline: none; padding: 40px 0px; width: 80%; color: rgb(47, 47, 47);">
-                    <div id="col-left-157-155-182" class="col-md-4 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
+                <div style="display: flex; justify-content:center; color:#2f2f2f" class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-131" data-trigger="none" data-animate="fade" data-delay="500" data-title="3 column row" style="margin: 0px auto; outline: none; padding: 40px 0px; width: 80%; color: rgb(47, 47, 47);">
+                    <div id="col-left-157-155-158-133" class="col-md-4 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding-left: 15px; padding-right: 15px;">
-                            <div class="de eliconelementWrapper ui-droppable de-editable" id="tmp_iconelement-71828-145-122" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
-                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(253, 77, 107); text-align: center; font-size: 55px; line-height: 1em; display: block;"><i class=" fas fa-ticket-alt"></i></a>
+                            <div class="de eliconelementWrapper ui-droppable de-editable" id="iconelement-54144-153-110" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
+                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(255, 216, 1); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132"><i class=" fas fa-assistive-listening-systems"></i></a>
                             </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-42687-104-108" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline mfs_28" style="text-align: center; font-size: 28px; color: rgb(47, 47, 47);" data-bold="inherit" contenteditable="false"><b>High-Ticket Offer Foundations</b></div>
+                            <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-46735-143-103" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
+                                <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline" style="text-align: center; font-size: 28px;" data-bold="inherit" contenteditable="false"><b>​High-Ticket Sales System</b></div>
                             </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-51811-181-168" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6 mfs_18" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Designing Compelling &amp; Scalable Offers, Offer Packaging &amp; Messaging, Program Hosting, Offer Delivery and More!</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="col-center-184-134-142" class="col-md-4 innerContent col_right ui-resizable" data-col="center" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding-left: 15px; padding-right: 15px;">
-                            <div class="de eliconelementWrapper ui-droppable de-editable" id="iconelement-82583-184-157" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
-                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(253, 77, 107); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132-663"><i class=" fas fa-shopping-cart"></i></a>
-                            </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-78127-111-109" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline" style="text-align: center; font-size: 28px;" data-bold="inherit" contenteditable="false"><b>High-Ticket Sales Funnel</b></div>
-                            </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-86298-122-118" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6 mfs_18" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">High-Ticket VSL Creation, Video Scripting, Funnel Templates, Funnel Copy, And More!</div>
+                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-31960-183-102" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
+                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6 mfs_18" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Sales Scripts, Objection Scripts, Email Follow Ups And More!</div>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-159-100-146" class="col-md-4 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="3rd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding-left: 15px; padding-right: 15px;">
                             <div class="de eliconelementWrapper ui-droppable de-editable" id="tmp_iconelement-71828-145-107-121" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
-                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(253, 77, 107); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-617"><i class=" fas fa-donate"></i></a>
+                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(255, 216, 1); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-617"><i class=" fas fa-donate"></i></a>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-42687-104-186-175" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
                                 <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline" style="text-align: center; font-size: 28px; color: rgb(47, 47, 47);" data-bold="inherit" contenteditable="false"><b>Lead Generation Systems</b></div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-51811-181-113-133" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Organic Outbound Appointment Setting Strategy, Instagram Shoutout System, High Converting FB Ads Campaigns, Email Marketing, Messaging And More!</div>
+                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Organic Outbound Appointment Setting Strategy, Messaging And More!</div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-187" data-trigger="none" data-animate="fade" data-delay="500" data-title="3 column row - Clone" style="margin: 0px auto; outline: none; padding: 40px 0px; width: 80%; color: rgb(47, 47, 47);">
-                    <div id="col-left-157-155-158-133" class="col-md-4 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding-left: 15px; padding-right: 15px;">
-                            <div class="de eliconelementWrapper ui-droppable de-editable" id="iconelement-54144-153-110" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
-                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(253, 77, 107); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132"><i class=" fas fa-assistive-listening-systems"></i></a>
-                            </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-46735-143-103" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline" style="text-align: center; font-size: 28px;" data-bold="inherit" contenteditable="false"><b>​High-Ticket Sales System</b></div>
-                            </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-31960-183-102" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6 mfs_18" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Sales Scripts, Closing Scripts, Objection Scripts, DFY Email Follow Ups And More!</div>
-                            </div>
-                        </div>
-                    </div>
+                <div style="display: flex; justify-content:center; color:#2f2f2f" class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-187" data-trigger="none" data-animate="fade" data-delay="500" data-title="3 column row - Clone" style="margin: 0px auto; outline: none; padding: 40px 0px; width: 80%; color: rgb(47, 47, 47);">
                     <div id="col-center-184-134-118-178" class="col-md-4 innerContent col_right ui-resizable" data-col="center" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding-left: 15px; padding-right: 15px;">
                             <div class="de eliconelementWrapper ui-droppable de-editable" id="iconelement-54144-153-138-172" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
-                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(253, 77, 107); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132-1061"><i class=" fas fa-users"></i></a>
+                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(255, 216, 1); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132-1061"><i class=" fas fa-users"></i></a>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-46735-143-169-121" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
                                 <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline" style="text-align: center; font-size: 28px;" data-bold="inherit" contenteditable="false"><b>Team Building</b></div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-31960-183-149-154" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Certified Appointment Setters &amp; Sales Closers Placement - Hiring, Managing &amp; Tracking Systems </div>
+                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh6" style="text-align: center; font-size: 18px; color: rgba(47, 47, 47, 0.7);" data-bold="inherit" contenteditable="false">Certified Appointment Setters &amp; Placement - Hiring, Managing &amp; Tracking Systems </div>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-159-100-117-138" class="col-md-4 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="3rd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding-left: 15px; padding-right: 15px;">
                             <div class="de eliconelementWrapper ui-droppable de-editable" id="iconelement-82583-184-134-125" data-de-type="iconelement" data-de-editing="false" data-title="Icon" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; display: block; cursor: pointer;" aria-disabled="false">
-                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(253, 77, 107); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132-663-353"><i class=" fas fa-cogs"></i></a>
+                                <a class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0px; margin: 0px; color: rgb(255, 216, 1); text-align: center; font-size: 55px; line-height: 1em; display: block;" id="undefined-1132-663-353"><i class=" fas fa-cogs"></i></a>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" data-htype="headline" id="headline-78127-111-111-116" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 10px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
                                 <div class="ne elHeadline hsSize3 lh3 elMargin0 elBGStyle0 hsTextShadow0 cfTypeHeadline" style="text-align: center; font-size: 28px;" data-bold="inherit" contenteditable="false"><b>Fulfillment &amp; Business Systemization</b></div>
@@ -411,7 +385,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153" data-title="Section - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153" data-title="Section - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -427,7 +401,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"We've booked 12 calls and had 8 closes"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"We've booked 12 calls and had 8 closes"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -462,14 +436,14 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(253, 77, 107);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(255, 216, 1);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-179" class="innerContent col_right ui-resizable col-md-5" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elBTN elAlign_center elMargin0 ui-droppable de-editable" id="button-20121" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -482,7 +456,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-150" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-150" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-152" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122-157" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -498,7 +472,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-153" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-139" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"Booking 3-6 calls per day is an absolute game changer for me"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"Booking 3-6 calls per day is an absolute game changer for me"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-118" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -568,7 +542,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-141" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-141" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-109" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122-168" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -584,7 +558,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-142" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-107" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"After joining Dirk's team, I managed to book 18 sales calls within my first 12 days"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"After joining Dirk's team, I managed to book 18 sales calls within my first 12 days"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-138" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -619,14 +593,14 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158-189" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(253, 77, 107);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(255, 216, 1);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-179-121" class="innerContent col_right ui-resizable col-md-5" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elBTN elAlign_center elMargin0 ui-droppable de-editable" id="button-20121-165" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -639,7 +613,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-141" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122-136" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -655,7 +629,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-128" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-171" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"We are currently booking 8-13 calls per day"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"We are currently booking 8-13 calls per day"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-168" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -730,7 +704,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-141-163" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122-136-169" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -746,7 +720,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-128-129" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-171-125" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"64 booked appointments within my first 30 days"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"64 booked appointments within my first 30 days"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-168-129" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -781,14 +755,14 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158-189-146" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(253, 77, 107);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(255, 216, 1);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-179-121-179" class="innerContent col_right ui-resizable col-md-5" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elBTN elAlign_center elMargin0 ui-droppable de-editable" id="button-20121-165-150" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-481">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-481">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -801,7 +775,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139-166" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139-166" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-141-163-174" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122-136-169-125" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -817,7 +791,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-128-129-147" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-171-125-165" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"I'm truly grateful for the whole team."</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"I'm truly grateful for the whole team."</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-168-129-112" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -861,7 +835,7 @@
         <div class="container noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 activeSection_topBorder activeSection_bottomBorder fullContainer border5px bgCover100 shadow40 emptySection activeSection_bottomBorder0 noBorder" id="section-5873710000-110-149-117" data-title="header section - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 70px; border-color: rgb(184, 67, 37); padding-bottom: 70px; outline: none; background-color: rgb(239, 237, 237);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--21035-186-168" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding: 0px; margin: 0px; outline: none;">
-                    <div id="col-left-177-170-115" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
+                    {{-- <div id="col-left-177-170-115" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" class="de elHeadlineWrapper ui-droppable de-editable" id="headline-86298-131-144" data-de-type="headline" data-de-editing="false" data-title="main headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" aria-disabled="false" data-google-font="Open+Sans">
                                 <div class="ne elHeadline elMargin0 elBGStyle0 hsSize4 lh4 cornersAll hsTextShadow0 mfs_30" style="text-align: center; color: rgb(45, 45, 45); font-size: 36px;" data-bold="inherit" contenteditable="false" spellcheck="false">
@@ -878,7 +852,7 @@
                                 <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(45, 45, 45);" data-bold="inherit" data-gramm="false" contenteditable="false">Designing Compelling &amp; Scalable Offers, Offer Packaging &amp; Messaging, Program Hosting, Offer Delivery and More!</h2>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                     <div id="col-right-177-123-187" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-85609-106" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false">
@@ -892,7 +866,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139-188" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139-188" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-141-163-108" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117-122-136-169-163" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -908,7 +882,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-128-129-126" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-171-125-100" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"I'm on my way to become a millionaire"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"I'm on my way to become a millionaire"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-168-129-102" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -983,7 +957,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184" data-title="Section - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184" data-title="Section - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138-117" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -999,7 +973,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"My experience with their program has left me absolutely speechless."</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"My experience with their program has left me absolutely speechless."</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -1034,14 +1008,14 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158-189-145" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(253, 77, 107);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(255, 216, 1);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-179-121-126" class="innerContent col_right ui-resizable col-md-5" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elBTN elAlign_center elMargin0 ui-droppable de-editable" id="button-20121-165-129" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-289">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-289">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -1054,7 +1028,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101" data-title="Section - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101" data-title="Section - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-171-138" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -1070,7 +1044,7 @@
                     <div id="col-right-131-152-170-157-122-133-185" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"I can only thank them for how they have guided me."</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"I can only thank them for how they have guided me."</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -1145,7 +1119,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133" data-title="Section - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133" data-title="Section - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -1161,7 +1135,7 @@
                     <div id="col-right-131-152-170-157-122" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><i style><b>"My experience have been phenomenal" </b></i></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><i style><b>"My experience have been phenomenal" </b></i></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -1236,7 +1210,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137" data-title="Section" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137" data-title="Section" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -1252,7 +1226,7 @@
                     <div id="col-right-131-152-170-157" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"Dirk's team really raised the limit for my coaching business" </i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"Dirk's team really raised the limit for my coaching business" </i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -1287,14 +1261,14 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158-189-145-163" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(253, 77, 107);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(255, 216, 1);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-179-121-126-151" class="innerContent col_right ui-resizable col-md-5" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elBTN elAlign_center elMargin0 ui-droppable de-editable" id="button-20121-165-129-109" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-289-755">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-289-755">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -1307,7 +1281,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-173" data-title="Section - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-173" data-title="Section - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-189" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
                     <div id="col-left-144-137-181-185-185-178" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -1323,7 +1297,7 @@
                     <div id="col-right-131-152-170-157-122-177" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-189" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color: rgb(43, 255, 244);" data-bold="inherit" contenteditable="false"><b><i>"It was the best decision that I made for me, and for my company" </i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"It was the best decision that I made for me, and for my company" </i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-143" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -1364,7 +1338,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H noBorder borderSolid border3px cornersAll radius0 shadow0 bgNoRepeat emptySection" id="container-28278" data-title="Section - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H noBorder borderSolid border3px cornersAll radius0 shadow0 bgNoRepeat emptySection" id="container-28278" data-title="Section - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable" style="padding-left: 0px; padding-right: 0px;">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--14644" data-trigger="none" data-animate="fade" data-delay="500" data-title="1 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px; outline: none;">
                     <div id="col-full-115" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -1433,14 +1407,14 @@
                                 </div>
                             </div>
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158-189-145-163-183" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(253, 77, 107);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
+                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(255, 216, 1);" data-bold="inherit" data-gramm="false" contenteditable="false"><b>Book a demo call today!</b></h2>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-179-121-126-151-123" class="innerContent col_right ui-resizable col-md-5" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elBTN elAlign_center elMargin0 ui-droppable de-editable" id="button-20121-165-129-109-104" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://www.clients2calendar.com/schedule-your-demo-c2c" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color: rgb(43, 255, 244); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-289-755-148">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elButtonCorner5 elBTN_b_none mfs_22 elBtnVP_15 elBtnHP_20 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975-231-746-289-755-148">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -1576,7 +1550,7 @@
                 color: #FFF !important;
             }
         </style>
-        <div class="container fullContainer noTopMargin padding20-top padding20-bottom padding40H noBorder borderSolid border3px cornersAll radius0 shadow0 bgNoRepeat emptySection" id="section--13743" data-title="Section" data-block-color="0074C7" style="padding-top: 20px; padding-bottom: 20px; outline: none; background-color: rgb(25, 25, 25);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container fullContainer noTopMargin padding20-top padding20-bottom padding40H noBorder borderSolid border3px cornersAll radius0 shadow0 bgNoRepeat emptySection" id="section--13743" data-title="Section" data-block-color="0074C7" style="padding-top: 20px; padding-bottom: 20px; outline: none; background-color: rgb(0 0 0);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--89296" data-trigger="none" data-animate="fade" data-delay="500" data-title="1 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px; outline: none;">
                     <div id="col-full-171" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
@@ -1594,7 +1568,7 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container noTopMargin padding40-top padding40-bottom padding40H noBorder borderSolid border3px cornersAll radius0 shadow0 bgNoRepeat activeSection_topBorder activeSection_bottomBorder emptySection activeSection_topBorder0 activeSection_bottomBorder0 fullContainer" id="container-28306" data-title="footer" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(25, 25, 25);" data-trigger="none" data-animate="fade" data-delay="500">
+        <div class="container noTopMargin padding40-top padding40-bottom padding40H noBorder borderSolid border3px cornersAll radius0 shadow0 bgNoRepeat activeSection_topBorder activeSection_bottomBorder emptySection activeSection_topBorder0 activeSection_bottomBorder0 fullContainer" id="container-28306" data-title="footer" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0);" data-trigger="none" data-animate="fade" data-delay="500">
             <div class="containerInner ui-sortable">
                 <div style="outline: none; margin-bottom: 0px;" class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-153" data-trigger="none" data-animate="fade" data-delay="500" data-title="1 column row">
                     <div style="outline: none;" id="col-full-759-151" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="full column">
@@ -1619,7 +1593,7 @@
         </style>
         <style id="bold_style_headline-86298">
             #headline-86298 .elHeadline b {
-                color: rgb(253, 77, 107);
+                color: rgb(255, 216, 1);
             }
         </style>
         <style id="button_style_button-90966">
@@ -1636,48 +1610,48 @@
             }
 
             #button-90966 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-90966 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-90966 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-90966 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-90966 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-90966 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
@@ -1695,48 +1669,48 @@
             }
 
             #button-20121 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-20121 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-20121 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-20121 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-20121 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-20121 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
@@ -1754,48 +1728,48 @@
             }
 
             #button-20121-165 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-20121-165 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-20121-165 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-20121-165 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-20121-165 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-20121-165 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
@@ -1813,48 +1787,48 @@
             }
 
             #button-20121-165-129 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-20121-165-129 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-20121-165-129 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-20121-165-129 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-20121-165-129 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-20121-165-129 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
@@ -1872,48 +1846,48 @@
             }
 
             #button-20121-165-129-109 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-20121-165-129-109 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-20121-165-129-109 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-20121-165-129-109 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-20121-165-129-109 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-20121-165-129-109 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
@@ -1931,48 +1905,48 @@
             }
 
             #button-20121-165-129-109-104 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-20121-165-129-109-104 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-20121-165-129-109-104 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-20121-165-129-109-104 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-20121-165-129-109-104 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-20121-165-129-109-104 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
@@ -1990,48 +1964,48 @@
             }
 
             #button-20121-165-150 .elButtonGradient {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 0%, #02fff2 100%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 0%, #02fff2 100%);
             }
 
             #button-20121-165-150 .elButtonGradient:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 0%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 0%);
             }
 
             #button-20121-165-150 .elButtonGradient2 {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgb(43, 255, 244)), color-stop(1, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 30%, #02fff2 80%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0,    rgb(200, 200, 200)), color-stop(1, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 30%, #02fff2 80%);
             }
 
             #button-20121-165-150 .elButtonGradient2:hover {
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1, rgb(43, 255, 244)), color-stop(0, #02fff2));
-                background-image: -o-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -moz-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -webkit-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: -ms-linear-gradient(bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
-                background-image: linear-gradient(to bottom, rgb(43, 255, 244) 100%, #02fff2 30%);
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1,    rgb(200, 200, 200)), color-stop(0, #02fff2));
+                background-image: -o-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -moz-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -webkit-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: -ms-linear-gradient(bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
+                background-image: linear-gradient(to bottom,    rgb(200, 200, 200) 100%, #02fff2 30%);
             }
 
             #button-20121-165-150 .elButtonBorder {
-                border: 3px solid rgb(43, 255, 244) !important;
-                color: rgb(43, 255, 244) !important;
+                border: 3px solid    rgb(200, 200, 200) !important;
+                color:    rgb(200, 200, 200) !important;
             }
 
             #button-20121-165-150 .elButtonBorder:hover {
-                background-color: rgb(43, 255, 244) !important;
+                background-color:    rgb(200, 200, 200) !important;
                 color: #FFF !important;
             }
         </style>
