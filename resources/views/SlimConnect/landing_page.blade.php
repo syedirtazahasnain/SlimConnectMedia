@@ -1582,7 +1582,9 @@
                     <div id="col-full-171" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-58206" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg" alt width="250" data-src="//www.clients2calendar.com/hosted/images/00/a5208244e84508a5cbdf3830be28b7/Transpp.png">
+                                {{-- <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg" alt width="250" data-src="//www.clients2calendar.com/hosted/images/00/a5208244e84508a5cbdf3830be28b7/Transpp.png"> --}}
+                                <img src="{{ asset('pictures/black_logo.jpg') }}" class="elIMG ximg" alt width="250">
+                                {{-- <img src="{{ asset('images/lock.svg') }}" class="w-6 h-6 rounded-full mx-2 shadow-lg"> --}}
                             </div>
                         </div>
                     </div>
@@ -1598,7 +1600,7 @@
                     <div style="outline: none;" id="col-full-759-151" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="full column">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin">
                             <div style="outline: none; cursor: pointer;" class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-20731-132" data-de-type="headline" data-de-editing="false" data-title="footer text" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" aria-disabled="false">
-                                <div class="ne elHeadline lh3 elMargin0 elBGStyle0 hsTextShadow0 hsSize18" style="text-align: center; color: rgba(255, 255, 255, 0.5);" data-bold="inherit" contenteditable="false">Copyright 2021 - Clients 2 Calendar<br>
+                                <div class="ne elHeadline lh3 elMargin0 elBGStyle0 hsTextShadow0 hsSize18" style="text-align: center; color: rgba(255, 255, 255, 0.5);" data-bold="inherit" contenteditable="false">Copyright 2024 - Slim Connect Media<br>
                                 </div>
                             </div>
                         </div>
