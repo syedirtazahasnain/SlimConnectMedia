@@ -10,7 +10,8 @@
     <meta class="metaTagTop" name="description" content="Automated Organic Lead Generation System">
     <meta class="metaTagTop" name="keywords" content="lead generation, appointment setters">
     <meta class="metaTagTop" name="author" content="Your Name">
-    <meta class="metaTagTop" property="og:image" content="https://www.clients2calendar.com/hosted/images/54/30ac1a7f9f4b09a9e6b50eb4a30945/Logo.jpg" id="social-image">
+    <!-- <meta class="metaTagTop" property="og:image" content="https://www.clients2calendar.com/hosted/images/54/30ac1a7f9f4b09a9e6b50eb4a30945/Logo.jpg" id="social-image"> -->
+    <meta class="metaTagTop" property="og:image" content="{{ asset('pictures/black_logo.jpg') }}" id="social-image">
     <meta property="og:title" content="Clients 2 Calendar">
     <meta property="og:description" content="Automated Organic Lead Generation System">
     <meta property="og:url" content="https://www.clients2calendar.com/automation">
@@ -39,8 +40,7 @@
             display: none
         }
     </style>
-    {{-- <link rel="icon" type="image/png" href="//www.clients2calendar.com/hosted/images/54/30ac1a7f9f4b09a9e6b50eb4a30945/Logo.jpg"> --}}
-    {{-- </link> --}}
+    <link rel="icon" href="{{ asset('pictures/favicon.ico') }}" type="image/x-icon">
     <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
