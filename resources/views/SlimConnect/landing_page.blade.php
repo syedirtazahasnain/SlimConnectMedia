@@ -775,22 +775,6 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133-130-101-184-153-181-139-166" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
-            <div class="containerInner ui-sortable">
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184-134-122-141-108-141-163-174" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
-                    <div id="col-left-144-137-181-185-185-171-138-117-122-136-169-125" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elVideoWrapper de-video-block elVideoWidth100 elMargin0 ui-droppable effect1 elVideoSkin2 de-editable" id="tmp_video-18603-100-176-179-109-136-185-177-149-115-105-114" data-de-type="video" data-de-editing="false" data-title="video" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" data-video-type="vimeo" style="outline: none; cursor: pointer;" data-vimeo-url="https://vimeo.com/711654755" aria-disabled="false" data-element-theme="customized">
-                                <div class="elVideoplaceholder">
-                                    <div class="elVideoplaceholder_inner"> </div>
-                                </div>
-                                <!-- <div class="elVideo" style="display: none;"><iframe width="640" height="360" src="https://player.vimeo.com/video/711654755?autoplay=0&amp;title=0&amp;byline=0&amp;wmode=transparent&amp;autopause=0" frameborder="0" allowfullscreen wmode="opaque"></iframe></div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
