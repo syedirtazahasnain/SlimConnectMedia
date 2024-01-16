@@ -11,8 +11,8 @@
     <meta class="metaTagTop" name="keywords" content="lead generation, appointment setters">
     <meta class="metaTagTop" name="author" content="Your Name">
     <!-- <meta class="metaTagTop" property="og:image" content="https://www.clients2calendar.com/hosted/images/54/30ac1a7f9f4b09a9e6b50eb4a30945/Logo.jpg" id="social-image"> -->
-    <meta class="metaTagTop" property="og:image" content="{{ asset('pictures/black_logo.jpg') }}" id="social-image">
-    <meta property="og:title" content="Clients 2 Calendar">
+    <meta class="metaTagTop" property="og:image" content="{{ asset('public/pictures/black_logo.jpg') }}" id="social-image">
+    <meta property="og:title" content="Slim Connect Media">
     <meta property="og:description" content="Automated Organic Lead Generation System">
     <meta property="og:url" content="https://www.clients2calendar.com/automation">
     <meta property="og:type" content="website">
@@ -40,7 +40,7 @@
             display: none
         }
     </style>
-    <link rel="icon" href="{{ asset('pictures/favicon.ico') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('public/pictures/favicon.ico') }}" type="image/x-icon">
     <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
@@ -489,14 +489,14 @@
                     <div id="col-left-122" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-97833" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false" data-element-theme="customized">
-                                <img src="{{ asset('pictures/client-1.png') }}" class="elIMG ximg el_media_theme1" alt style>
+                                <img src="{{ asset('public/pictures/client-1.png') }}" class="elIMG ximg el_media_theme1" alt style>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-102" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 de-editable hiddenElementTools ui-droppable" id="tmp_image-92574" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" data-element-theme="customized" aria-disabled="false">
-                                <img src="{{ asset('pictures/client-2.png') }}" class="elIMG ximg el_media_theme1" alt style>
+                                <img src="{{ asset('public/pictures/client-2.png') }}" class="elIMG ximg el_media_theme1" alt style>
                             </div>
                         </div>
                     </div>
@@ -551,7 +551,7 @@
                     <div id="col-right-131-152-170-157-122-133-185-103-160-142" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105-115-163-126-118-107" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"After joining Dirk's team, I managed to book 18 sales calls within my first 12 days"</i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"I really see the results of my Coaching business within first 12 days"</i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129-166-167-123-105-138" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -646,14 +646,14 @@
                     <div id="col-left-122-179" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-97833-189" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false" data-element-theme="customized">
-                                <img src="{{ asset('pictures/client-3.png') }}" class="elIMG ximg el_media_theme1" alt style>
+                                <img src="{{ asset('public/pictures/client-3.png') }}" class="elIMG ximg el_media_theme1" alt style>
                             </div>
                         </div>
                     </div>
                     <div id="col-right-102-176" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 de-editable hiddenElementTools ui-droppable" id="tmp_image-92574-130" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" data-element-theme="customized" aria-disabled="false">
-                                <img src="{{ asset('pictures/client-4.png') }}" class="elIMG ximg el_media_theme1" alt style>
+                                <img src="{{ asset('public/pictures/client-4.png') }}" class="elIMG ximg el_media_theme1" alt style>
                             </div>
                         </div>
                     </div>
@@ -966,7 +966,7 @@
                     <div id="col-right-131-152-170-157" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"Dirk's team really raised the limit for my coaching business" </i></b></div>
+                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><b><i>"They really raised the Limit for my coaching business" </i></b></div>
                             </div>
                             <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
                                 <div class="elDivider  elDividerStyle1 ">
@@ -1228,7 +1228,7 @@
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
                             <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-58206" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false">
                                 {{-- <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg" alt width="250" data-src="//www.clients2calendar.com/hosted/images/00/a5208244e84508a5cbdf3830be28b7/Transpp.png"> --}}
-                                <img src="{{ asset('pictures/black_logo.jpg') }}" class="elIMG ximg" alt width="250">
+                                <img src="{{ asset('public/pictures/black_logo.jpg') }}" class="elIMG ximg" alt width="250">
                                 {{-- <img src="{{ asset('images/lock.svg') }}" class="w-6 h-6 rounded-full mx-2 shadow-lg"> --}}
                             </div>
                         </div>
