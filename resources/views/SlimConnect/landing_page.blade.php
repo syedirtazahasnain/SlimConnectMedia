@@ -165,10 +165,12 @@
                 <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--91241" data-trigger="none" data-animate="fade" data-delay="500" data-title="1 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px auto; outline: none; width: 100%; max-width: 100%;">
                     <div id="col-full-157" class="col-md-12 innerContent col_left" data-col="full" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
                         <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div style="margin-top: 30px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" class="de elHeadlineWrapper ui-droppable de-editable" id="headline-86298" data-de-type="headline" data-de-editing="false" data-title="main headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" aria-disabled="false" data-google-font="Open+Sans">
+                            <div style="margin-top: 100px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" class="de elHeadlineWrapper ui-droppable de-editable" id="headline-86298" data-de-type="headline" data-de-editing="false" data-title="main headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" aria-disabled="false" data-google-font="Open+Sans">
                                 <div class="ne elHeadline elMargin0 elBGStyle0 hsTextShadow1 hsSize4 lh4 cornersAll mfs_22" style="text-align: center; color: rgb(255, 255, 255); font-size: 36px;" data-bold="inherit" contenteditable="false" spellcheck="false">
-                                    We Will Place Outbound Consultants In Your Business To Book You <b>3-15 Sales Calls Per Day</b> With Our Proven Automated Organic Outbound Lead Generation System <div>
-                                        OR Your <b>MONEY BACK</b>!<div><b>
+                                    {{-- We Will Place Outbound Consultants In Your Business To Book You <b>3-15 Sales Calls Per Day</b> With Our Proven Automated Organic Outbound Lead Generation System <div>
+                                        OR Your <b>MONEY BACK</b>!<div><b> --}}
+                                            Revolutionize your schedule with our expert Appointment/DM Setters, ready to secure <b> 2-4 appointments daily </b> for you.
+                                            </b>Elevate your business effortlessly!</b>
                                             </b></div>
                                         <div><b>
                                             </b></div>
@@ -178,7 +180,7 @@
                                 </div>
                             </div>
                             <div class="de elBTN elMargin0 ui-droppable elAlign_center de-editable" id="button-90966" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 50px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
-                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elBTN_b_none elBtnVP_15 elBtnHP_20 no-button-effect mfs_22 elButtonCorner5 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975">
+                                <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elBTN_b_none elBtnVP_15 elBtnHP_20 no-button-effect mfs_22 elButtonCorner5 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px; margin-top:80px; margin-bottom:50px;" rel="noopener noreferrer" id="undefined-235-537-975">
                                     <span class="elButtonMain">Schedule Demo Call </span>
                                     <span class="elButtonSub"></span>
                                 </a>
@@ -908,117 +910,9 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        {{-- <div class="container fullContainer noTopMargin padding20-top padding20-bottom padding40H borderSolid cornersAll radius0 shadow0 bgNoRepeat borderLightBottom border5px emptySection" id="section--16272-150-118-121-157" data-title="Section - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 20px; padding-bottom: 20px; outline: none; border-color: rgb(255, 255, 255); background-color: rgb(50, 50, 50);" data-trigger="none" data-animate="fade" data-delay="500">
-            <div class="containerInner ui-sortable">
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--29240-152-129-182-112" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px; outline: none;">
-                    <div id="col-left-122-179-138-135-109" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-97833-189-146-141-158" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false" data-element-theme="customized">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg el_media_theme1" alt style data-src="//www.clients2calendar.com/hosted/images/08/42e909924b4d249203b40642b490eb/jager-lounge-9.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div id="col-right-102-176-105-105-101" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 de-editable ui-droppable" id="tmp_image-92574-130-106-114-171" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" data-element-theme="customized" aria-disabled="false">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg el_media_theme1" alt style data-src="//www.clients2calendar.com/hosted/images/d7/8995b9af14409ea1c5569351e447cb/jager-lounge-10.jpg">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        <div class="container noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 activeSection_topBorder activeSection_bottomBorder fullContainer border5px bgCover100 shadow40 emptySection activeSection_bottomBorder0 noBorder" id="section-5873710000-110-149-117-106-142" data-title="header section - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 70px; border-color: rgb(184, 67, 37); padding-bottom: 70px; outline: none; background-color: rgb(239, 237, 237);" data-trigger="none" data-animate="fade" data-delay="500">
-            <div class="containerInner ui-sortable">
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--21035-186-168-174-113" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding: 0px; margin: 0px; outline: none;">
-                    <div id="col-left-177-170-115-140-157" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div style="margin-top: 0px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" class="de elHeadlineWrapper ui-droppable de-editable" id="headline-86298-131-144-127-141" data-de-type="headline" data-de-editing="false" data-title="main headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline elMargin0 elBGStyle0 hsSize4 lh4 cornersAll hsTextShadow0 mfs_30" style="text-align: center; color: rgb(45, 45, 45); font-size: 36px;" data-bold="inherit" contenteditable="false" spellcheck="false">
-                                    <b>​Intensive High-Ticket Training To Get Sales</b>
-                                    <div><b>
-                                        </b></div>
-                                    <div><b>
-                                        </b></div>
-                                    <div><b>
-                                        </b></div>
-                                </div>
-                            </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492-158-188-178-121" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 15px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color: rgb(45, 45, 45);" data-bold="inherit" data-gramm="false" contenteditable="false">Organic Outbound Appointment Setting Strategy, Instagram Shoutout System, High Converting FB Ads Campaigns, Email Marketing, Messaging And More!</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="col-right-177-123-187-169-129" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-85609-106-183-111" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false">
-                                <img src="//www.clients2calendar.com/hosted/images/fb/3df20eb551401980b2b47bb77242b2/iht.png" class="elIMG ximg" alt data-lazy-loading="false">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="dropZoneForSections ui-droppable" style="display: none;">
-            <div class="dropIconr"><i class="fa fa-plus"></i></div>
-        </div>
-        <div class="container fullContainer noTopMargin padding40-top padding40-bottom padding40H borderSolid cornersAll radius0 shadow0 emptySection bgCover100 border5px borderLightTopBottom" id="container-51137-133" data-title="Section - Clone" data-block-color="0074C7" style="padding-top: 40px; padding-bottom: 40px; outline: none; background-color: rgb(0 0 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);" data-trigger="none" data-animate="fade" data-delay="500">
-            <div class="containerInner ui-sortable">
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row-151-184" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 40px; padding-bottom: 40px; margin: 0px; outline: none;" col-array="8,4">
-                    <div id="col-left-144-137-181-185-185" class="innerContent col_left ui-resizable col-md-6" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elVideoWrapper de-video-block elVideoWidth100 elMargin0 ui-droppable effect1 elVideoSkin2 de-editable" id="tmp_video-18603-100-176-179-109" data-de-type="video" data-de-editing="false" data-title="video" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" data-video-type="vimeo" style="outline: none; cursor: pointer;" data-vimeo-url="https://vimeo.com/772628455" aria-disabled="false" data-element-theme="customized">
-                                <div class="elVideoplaceholder">
-                                    <div class="elVideoplaceholder_inner"> </div>
-                                </div>
-                                <!-- <div class="elVideo" style="display: none;"><iframe width="640" height="360" src="https://player.vimeo.com/video/772628455?autoplay=0&amp;title=0&amp;byline=0&amp;wmode=transparent&amp;autopause=0" frameborder="0" allowfullscreen wmode="opaque"></iframe></div> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div id="col-right-131-152-170-157-122" class="innerContent col_right ui-resizable col-md-6" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_headline1-67114-144-142-116-137-150-105" data-de-type="headline" data-de-editing="false" data-title="headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" data-htype="headline" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize3 lh4 elMargin0 elBGStyle0 hsTextShadow0 mfs_27" style="text-align: center; font-size: 37px; color:    rgb(200, 200, 200);" data-bold="inherit" contenteditable="false"><i style><b>"My experience have been phenomenal" </b></i></div>
-                            </div>
-                            <div class="de elSeperator elMargin0 ui-droppable de-editable" id="tmp_divider-32062-188-146-168-129" data-de-type="divider" data-de-editing="false" data-title="Divider" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer;" aria-disabled="false">
-                                <div class="elDivider  elDividerStyle1 ">
-                                    <div class="elDividerInner" data-width-border="40" data-align="center" data-height-border="5" style="border-color: rgba(255, 255, 255, 0.168627);"></div>
-                                </div>
-                            </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="tmp_subheadline-42932-106-102-121-176-165-156" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 5px; outline: none; cursor: pointer; display: block; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <div class="ne elHeadline hsSize2 elMargin0 elBGStyle0 hsTextShadow0 lh2" style="text-align: center; font-size: 18px; color: rgb(255, 255, 255);" data-bold="inherit" data-opacity="8" contenteditable="false"><b>- Felicity</b></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="dropZoneForSections ui-droppable" style="display: none;">
-            <div class="dropIconr"><i class="fa fa-plus"></i></div>
-        </div>
-        {{-- <div class="container fullContainer noTopMargin padding20-top padding20-bottom padding40H borderSolid cornersAll radius0 shadow0 bgNoRepeat borderLightBottom border5px emptySection" id="section--16272-150-118-121-157-159" data-title="Section - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 20px; padding-bottom: 20px; outline: none; border-color: rgb(255, 255, 255); background-color: rgb(50, 50, 50);" data-trigger="none" data-animate="fade" data-delay="500">
-            <div class="containerInner ui-sortable">
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--29240-152-129-182-112-181" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px; outline: none;">
-                    <div id="col-left-122-179-138-135-109-176" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-97833-189-146-141-158-149" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false" data-element-theme="customized">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg el_media_theme1" alt style data-src="//www.clients2calendar.com/hosted/images/83/e3eb07f01c4ee0b6c28594e0608754/jager-lounge-12.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div id="col-right-102-176-105-105-101-116" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 de-editable ui-droppable" id="tmp_image-92574-130-106-114-171-131" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" data-element-theme="customized" aria-disabled="false">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg el_media_theme1" alt style data-src="//www.clients2calendar.com/hosted/images/7a/ee2567892a486caae84c22fbb83827/jager-lounge-18.jpg">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
@@ -1161,26 +1055,6 @@
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
-        {{-- <div class="container fullContainer noTopMargin padding20-top padding20-bottom padding40H borderSolid cornersAll radius0 shadow0 bgNoRepeat borderLightBottom border5px emptySection" id="section--16272-150-118-121-157-159-156" data-title="Section - Clone - Clone - Clone - Clone - Clone - Clone" data-block-color="0074C7" style="padding-top: 20px; padding-bottom: 20px; outline: none; border-color: rgb(255, 255, 255); background-color: rgb(50, 50, 50);" data-trigger="none" data-animate="fade" data-delay="500">
-            <div class="containerInner ui-sortable">
-                <div class="row bgCover noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" id="row--29240-152-129-182-112-181-115" data-trigger="none" data-animate="fade" data-delay="500" data-title="2 column row" style="padding-top: 20px; padding-bottom: 20px; margin: 0px; outline: none;">
-                    <div id="col-left-122-179-138-135-109-176-170" class="col-md-6 innerContent col_left ui-resizable" data-col="left" data-trigger="none" data-animate="fade" data-delay="500" data-title="1st column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 ui-droppable de-editable" id="tmp_image-97833-189-146-141-158-149-169" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" aria-disabled="false" data-element-theme="customized">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg el_media_theme1" alt style data-src="//www.clients2calendar.com/hosted/images/8c/b1bc1ab2df45d5b3f9e7486c172038/jager-lounge-16.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div id="col-right-102-176-105-105-101-116-146" class="col-md-6 innerContent col_right ui-resizable" data-col="right" data-trigger="none" data-animate="fade" data-delay="500" data-title="2nd column" style="outline: none;">
-                        <div class="col-inner bgCover  noBorder borderSolid border3px cornersAll radius0 shadow0 P0-top P0-bottom P0H noTopMargin" style="padding: 0 10px">
-                            <div class="de elImageWrapper de-image-block elAlign_center elMargin0 de-editable ui-droppable" id="tmp_image-92574-130-106-114-171-131-134" data-de-type="img" data-de-editing="false" data-title="image" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 0px; outline: none; cursor: pointer;" data-element-theme="customized" aria-disabled="false">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="elIMG ximg el_media_theme1" alt style data-src="//www.clients2calendar.com/hosted/images/6c/c40c1118c14c0aa39003cbba81d966/jager-lounge-20.jpg">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
         <div class="dropZoneForSections ui-droppable" style="display: none;">
             <div class="dropIconr"><i class="fa fa-plus"></i></div>
         </div>
