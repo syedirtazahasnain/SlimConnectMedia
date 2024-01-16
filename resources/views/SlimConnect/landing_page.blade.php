@@ -177,15 +177,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="de elHeadlineWrapper ui-droppable de-editable" id="headline-50492" data-de-type="headline" data-de-editing="false" data-title="sub-headline" data-ce="true" data-trigger="none" data-animate="fade" data-delay="500" data-gramm="false" style="margin-top: 20px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-google-font="Open+Sans">
-                                <h2 class="ne elHeadline hsSize2 lh3 elMargin0 elBGStyle0 hsTextShadow0 mfs_18" style="text-align: center; font-size: 28px; color:    rgb(200, 200, 200);" data-bold="inherit" data-gramm="false" contenteditable="false"><i>Watch 5 Minute Video Below For How This Offer Works.</i></h2>
-                            </div>
-                            <div class="de elVideoWrapper de-video-block elMargin0 ui-droppable padding0 effect1 elVideoSkin2 elVideoWidth100 de-editable" id="tmp_video-37473" data-de-type="video" data-de-editing="false" data-title="video" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" data-video-type="vimeo" style="outline: none; margin-top: 35px; cursor: pointer;" data-vimeo-url="https://vimeo.com/802974995" aria-disabled="false" data-element-theme="customized">
-                                <div class="elVideoplaceholder">
-                                    <div class="elVideoplaceholder_inner"></div>
-                                </div>
-                                <!-- <div class="elVideo" style="display: none;"><iframe width="640" height="360" src="https://player.vimeo.com/video/802974995?autoplay=0&amp;title=0&amp;byline=0&amp;wmode=transparent&amp;autopause=0" frameborder="0" allowfullscreen wmode="opaque"></iframe></div> -->
-                            </div>
                             <div class="de elBTN elMargin0 ui-droppable elAlign_center de-editable" id="button-90966" data-de-type="button" data-de-editing="false" data-title="button" data-ce="false" data-trigger="none" data-animate="fade" data-delay="500" style="margin-top: 50px; outline: none; cursor: pointer; font-family: &quot;Open Sans&quot;, Helvetica, sans-serif !important;" aria-disabled="false" data-elbuttontype="1" data-google-font="Open+Sans">
                                 <a href="https://calendly.com/ssheikh12688" class="elButton elButtonSize1 elButtonColor1 elButtonRounded elButtonPadding2 elButtonFluid elBTNone elBTN_b_none elBtnVP_15 elBtnHP_20 no-button-effect mfs_22 elButtonCorner5 elButtonShadowFlatHighlight elButtonTxtColor2" style="color: rgb(47, 47, 47); font-weight: 600; background-color:    rgb(200, 200, 200); font-size: 34px;" rel="noopener noreferrer" id="undefined-235-537-975">
                                     <span class="elButtonMain">Schedule Demo Call </span>
